@@ -1,0 +1,10 @@
+21:33:32 **** Incremental Build of configuration Debug for project Serial send ****
+make -j8 all 
+arm-none-eabi-size   Serial\ send.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9368	     20	   1700	  11088	   2b50	Serial send.elf
+Finished building: default.size.stdout
+ 
+
+21:33:32 Build Finished. 0 errors, 0 warnings. (took 541ms)
+
